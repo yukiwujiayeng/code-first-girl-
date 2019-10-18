@@ -1,1 +1,41 @@
 # code-first-girl-
+<!DOCTYPE html>
+<html>
+<head>
+
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <title>delicious duck</title>
+
+</head>
+
+<body>
+
+  <h1>Hello World</h1>
+
+  <h2>Welcome to my site!</h2>
+
+  <img id="pokemon-img" src="http://res.pokemon.name/common/pokemon/pgl/083.00.png" alt="duck">
+<!-- image of a duck -->
+
+  <p>I am currently learning to code with <a href="www.codefirstgirls.org.uk">Code First Girls</a>. Going over everything from how the
+internet works, to creating websites and version control with git. A lot to cover in only 8 weeks!
+Everyone should learn to code, here are some pretty good reasons why...</p>
+
+  <ol>
+    <li>HTML is cool</li>
+    <li>CSS is cooler</li>
+    <li>JS is the best</li>
+  </ol>
+
+  <h3>What do you need to create a website?</h3>
+  <p>Not much!
+  <ul>
+    <li>A computer (always a good start)</li>
+    <li>A text editor (I am using atom)</li>
+    <li>Some HTML, CSS and JS files</li>
+  </ul>
+
+  <p>Follow my progress on github</p>
+</body>
+</html>
