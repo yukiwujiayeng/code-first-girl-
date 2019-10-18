@@ -1,0 +1,35 @@
+#pokemon-img {
+   width: 30%; height:30%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+body{
+  background:url("https://pic1.zhimg.com/v2-125288292281e67213c9371ead06dec0_1200x500.jpg");
+  background-size:120%;
+  color:white;
+  background-repeat: no-repeat;
+  width:500px;
+  height:500px;
+}
+
+
+
+h1{
+  text-align:center;
+  font-family:Arial Black
+}
+h2{
+  text-align:center;
+  font-family:Arial Black;
+}
+p{
+  text-align:left;
+  font-family:Arial ;
+}
+h3{
+  text-align:left;
+  font-family:Apple Chancery;
+  font-size:large;
+}
